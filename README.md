@@ -1,4 +1,4 @@
-# nutrtionLabel Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
+# Label 
+ Typography is the art of styling your text to be easily readable and suit its purpose.
 
-# In this project,built a set of colored markers. Learned different ways to set color values and how to pair colors with each other.
-# I found this project was great for learning about the rgb. Its fun to think of colors as numbers.
+In this project, used typography to build a nutrition label webpage. Learned how to style text, adjust line height, and position text using CSS.
